@@ -1,5 +1,5 @@
 ### Projeto previsão do tempo
-Aplicativo para saber a previsão do tempo
+Site de um app dedicado à sua região no Brasil para obter informações instantâneas e precisas sobre temperatura, umidade e velocidade do vento.
 
 Link de produção: https://mctks2.github.io/app-previsao-do-tempo/
 
