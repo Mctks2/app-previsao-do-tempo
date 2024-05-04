@@ -1,5 +1,5 @@
 # Projeto previsão do tempo
-Site de um app dedicado à sua região no Brasil para obter informações instantâneas e precisas sobre temperatura, umidade e velocidade do vento.
+Pagina de web interativa de um app dedicado à sua região no Brasil para obter informações instantâneas e precisas sobre temperatura, umidade e velocidade do vento.
 
 ## 🛠️ Tecnologias utilizadas
 - HTML
